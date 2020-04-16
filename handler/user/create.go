@@ -15,8 +15,21 @@ func Create(c *gin.Context) {
 	if err := c.Bind(&r); err != nil {
 		//c.JSON(http.StatusOK, gin.H{"error": errno.ErrBind})
 		SendResponse(c, errno.ErrBind, nil)
+
 		return
 	}
+	desc :=c.Query("desc")
+	log.Infof("desc:%s ",desc)
+
+	admin2 := c.Param("username")
+	log.Infof("URL username: %s", admin2)
+
+
+	lastname := c.DefaultQuery("lastname", "none")
+	log.Infof("lastname: %s",lastname)
+
+	contentType := c.GetHeader("Content-Type")
+	log.Infof("Header Content-Type: %s", contentType)
 
 	log.Debugf("username is: [%s], password is [%s]", r.Username, r.Password)
 	if r.Username == "" {
