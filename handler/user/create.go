@@ -17,6 +17,10 @@ func Create(c *gin.Context) {
 		Password string `json:"password"`
 	}
 
+	type CreateResponse struct {
+		Username string `json:"username"`
+	}
+
 	var err error
 	if err := c.Bind(&r); err != nil {
 		c.JSON(http.StatusOK, gin.H{"error": errno.ErrBind})
