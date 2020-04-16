@@ -1,290 +1,41 @@
-{"level":"INFO","timestamp":"2020-04-15 14:21:12.324","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 14:21:12.326","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-15 14:38:10.918","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 14:38:10.920","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-15 14:39:56.285","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 14:39:56.286","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-15 14:41:52.484","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:52.586","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:52.689","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:52.792","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:52.894","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:52.998","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.102","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.205","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.309","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.414","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.516","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.618","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.719","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.819","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:53.921","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.023","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.123","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.226","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.329","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.433","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.533","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.638","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.739","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.839","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:54.942","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.046","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.150","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.254","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.357","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.462","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.562","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.666","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.767","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.872","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:55.973","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.074","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.177","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.282","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.382","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.486","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.586","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.692","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.792","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.896","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:56.998","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.104","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.204","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.305","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.405","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.508","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.610","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.710","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.814","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:57.916","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.020","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.120","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.224","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.326","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.430","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.534","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.638","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.741","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.846","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:58.946","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.047","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.147","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.250","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.355","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.460","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.565","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.667","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.770","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.875","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:41:59.976","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.077","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.180","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.286","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.387","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.489","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.594","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.695","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.800","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:00.904","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.008","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.113","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.218","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.318","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.423","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.524","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.625","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.726","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.827","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:01.931","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:02.035","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:02.136","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:02.237","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:02.338","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 14:42:02.443","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:57.615","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:57.716","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:57.819","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:57.921","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.023","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.128","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.233","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.337","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.437","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.542","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.643","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.745","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.848","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:58.953","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.056","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.160","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.265","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.368","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.469","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.570","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.674","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.776","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.878","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:05:59.978","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:06:00.082","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:06:00.184","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:06:00.287","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:06:00.392","file":"apiserver/main.go:32","msg":"asfasfafafasfasdfasfdaf"}
-{"level":"INFO","timestamp":"2020-04-15 15:44:20.944","file":"apiserver/main.go:57","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 15:44:20.945","file":"apiserver/main.go:54","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-15 15:49:13.769","file":"apiserver/main.go:58","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 15:49:13.770","file":"apiserver/main.go:55","msg":"The router has been deployed successfully."}
-{"level":"ERROR","timestamp":"2020-04-15 15:50:24.950","file":"model/init.go:32","msg":"Database connection failed. Database name: ","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
-{"level":"ERROR","timestamp":"2020-04-15 15:50:24.950","file":"model/init.go:32","msg":"Database connection failed. Database name: ","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
-{"level":"INFO","timestamp":"2020-04-15 15:50:24.950","file":"apiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 15:50:24.952","file":"apiserver/main.go:57","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-15 15:54:37.088","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:54:54.343","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:55:00.843","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:55:04.826","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:55:14.728","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:55:20.129","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:55:25.281","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:55:52.787","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:55:59.569","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/apiserver/conf/config.yaml"}
-{"level":"INFO","timestamp":"2020-04-15 15:58:33.115","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 15:58:33.117","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-15 16:05:24.509","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 16:05:24.511","file":"apiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-15 17:37:25.688","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-15 17:37:25.690","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 13:57:58.610","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 13:57:58.612","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"DEBUG","timestamp":"2020-04-16 14:02:36.952","file":"user/create.go:26","msg":"username is: [], password is []"}
-{"level":"ERROR","timestamp":"2020-04-16 14:02:36.952","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
-{"level":"DEBUG","timestamp":"2020-04-16 14:02:36.952","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
-{"level":"INFO","timestamp":"2020-04-16 14:04:05.725","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 14:04:05.726","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"DEBUG","timestamp":"2020-04-16 14:09:13.340","file":"user/create.go:26","msg":"username is: [], password is []"}
-{"level":"ERROR","timestamp":"2020-04-16 14:09:33.074","file":"user/create.go:29","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
-{"level":"DEBUG","timestamp":"2020-04-16 14:09:43.101","file":"user/create.go:33","msg":"err type is ErrUserNotFound"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:14:22.358","file":"user/create.go:26","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:14:55.211","file":"user/create.go:26","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 14:28:58.016","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 14:28:58.017","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"DEBUG","timestamp":"2020-04-16 14:29:13.619","file":"user/create.go:30","msg":"username is: [], password is []"}
-{"level":"ERROR","timestamp":"2020-04-16 14:29:13.619","file":"user/create.go:33","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
-{"level":"DEBUG","timestamp":"2020-04-16 14:29:13.619","file":"user/create.go:37","msg":"err type is ErrUserNotFound"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:29:24.232","file":"user/create.go:30","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 14:29:37.709","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 14:29:37.711","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"DEBUG","timestamp":"2020-04-16 14:29:43.422","file":"user/create.go:30","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 14:56:38.457","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 14:56:38.459","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"DEBUG","timestamp":"2020-04-16 14:56:41.363","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:56:42.177","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:56:42.782","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:56:43.391","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:56:43.981","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:56:44.558","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:56:45.123","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 14:56:46.556","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:02:27.629","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:02:27.631","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"DEBUG","timestamp":"2020-04-16 15:02:32.485","file":"user/create.go:23","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:02:33.146","file":"user/create.go:23","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:02:44.348","file":"user/create.go:23","msg":"username is: [11111], password is []"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:03:09.490","file":"user/create.go:23","msg":"username is: [], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:05:19.336","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:05:19.338","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"DEBUG","timestamp":"2020-04-16 15:05:29.931","file":"user/create.go:22","msg":"username is: [], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:05:30.960","file":"user/create.go:22","msg":"username is: [], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:05:31.799","file":"user/create.go:22","msg":"username is: [], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:05:32.421","file":"user/create.go:22","msg":"username is: [], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:06:07.453","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:06:07.454","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"DEBUG","timestamp":"2020-04-16 15:06:09.507","file":"user/create.go:22","msg":"username is: [], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:06:10.633","file":"user/create.go:22","msg":"username is: [], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:06:11.820","file":"user/create.go:22","msg":"username is: [], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:06:21.452","file":"user/create.go:22","msg":"username is: [11111], password is [22222]"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:06:24.845","file":"user/create.go:22","msg":"username is: [11111], password is []"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:10.895","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:10.896","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:11:17.057","file":"user/create.go:21","msg":"URL username: username"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:17.057","file":"user/create.go:24","msg":"URL key param desc: "}
-{"level":"INFO","timestamp":"2020-04-16 15:11:17.057","file":"user/create.go:27","msg":"Header Content-Type: "}
-{"level":"DEBUG","timestamp":"2020-04-16 15:11:17.057","file":"user/create.go:29","msg":"username is: [11111], password is []"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:17.851","file":"user/create.go:21","msg":"URL username: username"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:17.851","file":"user/create.go:24","msg":"URL key param desc: "}
-{"level":"INFO","timestamp":"2020-04-16 15:11:17.851","file":"user/create.go:27","msg":"Header Content-Type: "}
-{"level":"DEBUG","timestamp":"2020-04-16 15:11:17.851","file":"user/create.go:29","msg":"username is: [11111], password is []"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:22.888","file":"user/create.go:21","msg":"URL username: username"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:22.888","file":"user/create.go:24","msg":"URL key param desc: "}
-{"level":"INFO","timestamp":"2020-04-16 15:11:22.888","file":"user/create.go:27","msg":"Header Content-Type: "}
-{"level":"DEBUG","timestamp":"2020-04-16 15:11:22.888","file":"user/create.go:29","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:31.815","file":"user/create.go:21","msg":"URL username: username"}
-{"level":"INFO","timestamp":"2020-04-16 15:11:31.815","file":"user/create.go:24","msg":"URL key param desc: "}
-{"level":"INFO","timestamp":"2020-04-16 15:11:31.815","file":"user/create.go:27","msg":"Header Content-Type: "}
-{"level":"DEBUG","timestamp":"2020-04-16 15:11:31.815","file":"user/create.go:29","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:14:06.394","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:14:06.396","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:14:47.225","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:14:47.227","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:16:22.292","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:16:22.293","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:16:30.645","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:16:30.646","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:20:38.906","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:20:38.908","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:21:44.214","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:21:44.216","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:22:06.780","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:22:06.782","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:22:45.145","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:22:45.146","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:23:16.784","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:23:16.786","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:26:24.898","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:26:24.900","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:27:02.216","file":"user/create.go:22","msg":"Header Content-Type: "}
-{"level":"DEBUG","timestamp":"2020-04-16 15:27:02.216","file":"user/create.go:24","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:27:09.026","file":"user/create.go:22","msg":"Header Content-Type: "}
-{"level":"DEBUG","timestamp":"2020-04-16 15:27:09.027","file":"user/create.go:24","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:47:14.699","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:47:14.700","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:47:57.483","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:47:57.485","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:52:19.174","file":"user/create.go:22","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------235304066669248833337869"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:52:19.174","file":"user/create.go:24","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:56:47.364","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:56:47.366","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:56:49.114","file":"user/create.go:22","msg":"URL username: username"}
-{"level":"INFO","timestamp":"2020-04-16 15:56:49.114","file":"user/create.go:24","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------129201813511884497269415"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:56:49.114","file":"user/create.go:26","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:56:49.953","file":"user/create.go:22","msg":"URL username: username"}
-{"level":"INFO","timestamp":"2020-04-16 15:56:49.953","file":"user/create.go:24","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------478242750958384772233802"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:56:49.953","file":"user/create.go:26","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:57:11.352","file":"user/create.go:22","msg":"URL username: username1"}
-{"level":"INFO","timestamp":"2020-04-16 15:57:11.352","file":"user/create.go:24","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------439260888573047035261291"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:57:11.352","file":"user/create.go:26","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 15:57:18.322","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 15:57:18.324","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 15:57:18.485","file":"user/create.go:22","msg":"URL username: username1"}
-{"level":"INFO","timestamp":"2020-04-16 15:57:27.221","file":"user/create.go:25","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------712952226186731624942553"}
-{"level":"DEBUG","timestamp":"2020-04-16 15:57:27.221","file":"user/create.go:27","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 16:02:33.442","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 16:02:33.443","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 16:02:48.725","file":"user/create.go:22","msg":"desc:1233 "}
-{"level":"INFO","timestamp":"2020-04-16 16:02:48.725","file":"user/create.go:25","msg":"URL username: username1"}
-{"level":"INFO","timestamp":"2020-04-16 16:02:51.116","file":"user/create.go:28","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------128846342591021693069696"}
-{"level":"DEBUG","timestamp":"2020-04-16 16:02:51.117","file":"user/create.go:30","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 16:05:27.543","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 16:05:27.544","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 16:05:39.685","file":"user/create.go:22","msg":"desc:1233 "}
-{"level":"INFO","timestamp":"2020-04-16 16:05:39.685","file":"user/create.go:25","msg":"URL username: username1"}
-{"level":"INFO","timestamp":"2020-04-16 16:05:39.685","file":"user/create.go:29","msg":"lastname: none"}
-{"level":"INFO","timestamp":"2020-04-16 16:05:41.720","file":"user/create.go:32","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------791072314327780791323857"}
-{"level":"DEBUG","timestamp":"2020-04-16 16:05:41.720","file":"user/create.go:34","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 16:34:16.627","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
-{"level":"INFO","timestamp":"2020-04-16 16:34:16.628","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
-{"level":"INFO","timestamp":"2020-04-16 16:36:31.189","file":"user/create.go:24","msg":"desc:1233 "}
-{"level":"INFO","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:27","msg":"URL username: "}
-{"level":"INFO","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:31","msg":"lastname: none"}
-{"level":"INFO","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:34","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------058995446835342706477063"}
-{"level":"DEBUG","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:36","msg":"username is: [11111], password is [22222]"}
-{"level":"INFO","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:54","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-04-16 17:02:50.895","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2020-04-16 17:02:50.896","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-04-16 17:04:41.645","file":"user/create.go:24","msg":"desc:1233 "}
+{"level":"INFO","timestamp":"2020-04-16 17:04:41.646","file":"user/create.go:27","msg":"URL username: "}
+{"level":"INFO","timestamp":"2020-04-16 17:04:41.646","file":"user/create.go:31","msg":"lastname: none"}
+{"level":"INFO","timestamp":"2020-04-16 17:04:41.646","file":"user/create.go:34","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------394705414953539637399082"}
+{"level":"DEBUG","timestamp":"2020-04-16 17:04:41.646","file":"user/create.go:36","msg":"username is: [11111], password is [22222]"}
+{"level":"INFO","timestamp":"2020-04-16 17:04:41.646","file":"user/create.go:43","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-04-16 17:05:00.848","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2020-04-16 17:05:00.849","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-04-16 17:05:05.771","file":"user/create.go:24","msg":"desc:1233 "}
+{"level":"INFO","timestamp":"2020-04-16 17:05:05.771","file":"user/create.go:27","msg":"URL username: "}
+{"level":"INFO","timestamp":"2020-04-16 17:05:05.771","file":"user/create.go:31","msg":"lastname: none"}
+{"level":"INFO","timestamp":"2020-04-16 17:05:05.771","file":"user/create.go:34","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------137529514657050437368463"}
+{"level":"DEBUG","timestamp":"2020-04-16 17:05:05.771","file":"user/create.go:36","msg":"username is: [11111], password is [22222]"}
+{"level":"INFO","timestamp":"2020-04-16 17:05:05.771","file":"user/create.go:43","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"ERROR","timestamp":"2020-04-16 17:14:44.243","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 47.114.57.220:3306: connect: operation timed out"}}
+{"level":"INFO","timestamp":"2020-04-16 17:14:44.244","file":"GoApiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2020-04-16 17:14:44.245","file":"GoApiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-04-16 17:17:26.317","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/GoApiserver/conf/config.yaml"}
+{"level":"ERROR","timestamp":"2020-04-16 17:18:16.497","file":"model/init.go:33","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"invalid URL escape \"%!s\""}}
+{"level":"INFO","timestamp":"2020-04-16 17:18:16.498","file":"GoApiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2020-04-16 17:18:16.500","file":"GoApiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2020-04-16 17:19:11.617","file":"model/init.go:33","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"invalid URL escape \"%!s\""}}
+{"level":"INFO","timestamp":"2020-04-16 17:19:11.618","file":"GoApiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2020-04-16 17:19:11.619","file":"GoApiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2020-04-16 17:21:50.570","file":"model/init.go:33","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 47.114.57.220:3306: connect: operation timed out"}}
+{"level":"INFO","timestamp":"2020-04-16 17:21:50.570","file":"GoApiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2020-04-16 17:21:50.572","file":"GoApiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-04-16 17:32:28.510","file":"GoApiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2020-04-16 17:32:28.511","file":"GoApiserver/main.go:74","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2020-04-16 17:32:29.513","file":"GoApiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-04-16 17:34:13.827","file":"user/create.go:24","msg":"desc:1233 "}
+{"level":"INFO","timestamp":"2020-04-16 17:34:13.827","file":"user/create.go:27","msg":"URL username: "}
+{"level":"INFO","timestamp":"2020-04-16 17:34:13.827","file":"user/create.go:31","msg":"lastname: none"}
+{"level":"INFO","timestamp":"2020-04-16 17:34:13.827","file":"user/create.go:34","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------333493751748565677122241"}
+{"level":"DEBUG","timestamp":"2020-04-16 17:34:13.827","file":"user/create.go:36","msg":"username is: [11111], password is [22222]"}
+{"level":"INFO","timestamp":"2020-04-16 17:34:13.827","file":"user/create.go:43","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-04-16 17:39:02.606","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/GoApiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-04-16 17:39:09.364","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/GoApiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-04-16 17:40:31.487","file":"config/config.go:69","msg":"Config file changed: /Users/apple/src/GoApiserver/conf/config.yaml"}

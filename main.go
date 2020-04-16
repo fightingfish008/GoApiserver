@@ -1,6 +1,7 @@
 package main
 
 import (
+	"apiserver/model"
 	"errors"
 	"github.com/lexkong/log"
 	"net/http"
@@ -27,7 +28,7 @@ func main() {
 		panic(err)
 	}
 	////// init db
-	//model.DB.Init()
+	model.DB.Init()
 	//defer model.DB.Close()
 	// Set gin mode.
 	gin.SetMode(viper.GetString("runmode"))

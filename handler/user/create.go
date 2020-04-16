@@ -2,6 +2,7 @@ package user
 
 import (
 	. "apiserver/handler"
+	"apiserver/model"
 	"apiserver/pkg/errno"
 	"apiserver/util"
 	"github.com/lexkong/log/lager"
@@ -19,15 +20,14 @@ func Create(c *gin.Context) {
 
 		return
 	}
-	desc :=c.Query("desc")
-	log.Infof("desc:%s ",desc)
+	desc := c.Query("desc")
+	log.Infof("desc:%s ", desc)
 
 	admin2 := c.Param("username")
 	log.Infof("URL username: %s", admin2)
 
-
 	lastname := c.DefaultQuery("lastname", "none")
-	log.Infof("lastname: %s",lastname)
+	log.Infof("lastname: %s", lastname)
 
 	contentType := c.GetHeader("Content-Type")
 	log.Infof("Header Content-Type: %s", contentType)
@@ -38,7 +38,6 @@ func Create(c *gin.Context) {
 	//	log.Debug("err type is ErrUserNotFound")
 	//}
 
-
 	log.Info("User Create function called.", lager.Data{"X-Request-Id": util.GetReqID(c)})
 	if err := c.Bind(&r); err != nil {
 		SendResponse(c, errno.ErrBind, nil)
@@ -47,6 +46,21 @@ func Create(c *gin.Context) {
 
 	if err := r.checkParam(); err != nil {
 		SendResponse(c, err, nil)
+		return
+	}
+	u := model.UserModel{
+		Username: r.Username,
+		Password: r.Password,
+	}
+
+	// Insert the user to the database.
+	if err := u.Create(); err != nil {
+		SendResponse(c, errno.ErrDatabase, nil)
+		return
+	}
+	// Encrypt the user password.
+	if err := u.Encrypt(); err != nil {
+		SendResponse(c, errno.ErrEncrypt, nil)
 		return
 	}
 	//code, message := errno.DecodeErr(err)
