@@ -280,3 +280,11 @@
 {"level":"INFO","timestamp":"2020-04-16 16:05:39.685","file":"user/create.go:29","msg":"lastname: none"}
 {"level":"INFO","timestamp":"2020-04-16 16:05:41.720","file":"user/create.go:32","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------791072314327780791323857"}
 {"level":"DEBUG","timestamp":"2020-04-16 16:05:41.720","file":"user/create.go:34","msg":"username is: [11111], password is [22222]"}
+{"level":"INFO","timestamp":"2020-04-16 16:34:16.627","file":"GoApiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2020-04-16 16:34:16.628","file":"GoApiserver/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-04-16 16:36:31.189","file":"user/create.go:24","msg":"desc:1233 "}
+{"level":"INFO","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:27","msg":"URL username: "}
+{"level":"INFO","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:31","msg":"lastname: none"}
+{"level":"INFO","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:34","msg":"Header Content-Type: multipart/form-data; boundary=--------------------------058995446835342706477063"}
+{"level":"DEBUG","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:36","msg":"username is: [11111], password is [22222]"}
+{"level":"INFO","timestamp":"2020-04-16 16:36:31.190","file":"user/create.go:54","msg":"User Create function called.","data":{"X-Request-Id":""}}

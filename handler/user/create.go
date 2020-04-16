@@ -3,7 +3,8 @@ package user
 import (
 	. "apiserver/handler"
 	"apiserver/pkg/errno"
-	"fmt"
+	"apiserver/util"
+	"github.com/lexkong/log/lager"
 
 	"github.com/gin-gonic/gin"
 	"github.com/lexkong/log"
@@ -32,23 +33,22 @@ func Create(c *gin.Context) {
 	log.Infof("Header Content-Type: %s", contentType)
 
 	log.Debugf("username is: [%s], password is [%s]", r.Username, r.Password)
-	if r.Username == "" {
-		//err = errno.New(errno.ErrUserNotFound, fmt.Errorf("username can not found in db: xx.xx.xx.xx")).Add("This is add message.")
-		SendResponse(c, errno.New(errno.ErrUserNotFound, fmt.Errorf("username can not found in db: xx.xx.xx.xx")), nil)
-		//log.Errorf(err, "Get an error")
-		return
-	}
 	//
 	//if errno.IsErrUserNotFound(err) {
 	//	log.Debug("err type is ErrUserNotFound")
 	//}
 
-	if r.Password == "" {
-		SendResponse(c, fmt.Errorf("password is empty"), nil)
-		//err = fmt.Errorf("password is empty")
+
+	log.Info("User Create function called.", lager.Data{"X-Request-Id": util.GetReqID(c)})
+	if err := c.Bind(&r); err != nil {
+		SendResponse(c, errno.ErrBind, nil)
 		return
 	}
 
+	if err := r.checkParam(); err != nil {
+		SendResponse(c, err, nil)
+		return
+	}
 	//code, message := errno.DecodeErr(err)
 	//c.JSON(http.StatusOK, gin.H{"code": code, "message": message})
 	rsp := CreateResponse{
@@ -57,4 +57,16 @@ func Create(c *gin.Context) {
 
 	// Show the user information.
 	SendResponse(c, nil, rsp)
+}
+
+func (r *CreateRequest) checkParam() error {
+	if r.Username == "" {
+		return errno.New(errno.ErrValidation, nil).Add("username is empty.")
+	}
+
+	if r.Password == "" {
+		return errno.New(errno.ErrValidation, nil).Add("password is empty.")
+	}
+
+	return nil
 }
