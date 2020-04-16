@@ -14,11 +14,13 @@ log:
   log_backup_count: 7
 db:
   name: db_apiserver
-  addr: 47.114.57.220
-  username: zzx
-  password: hzzx2jd
+  addr: xxxxxxxxx
+  username: xxxxxx
+  password: xxxxxxx
+  port: 6030
 docker_db:
   name: db_apiserver
-  addr: 47.114.57.220
-  username: zzx
-  password: hzzx2jd
+  addr: xxxxxxx
+  username: xxxxx
+  password: xxxxxx
+  port: 6030
