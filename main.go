@@ -2,6 +2,7 @@ package main
 
 import (
 	"apiserver/model"
+	"apiserver/router/middleware"
 	"errors"
 	"github.com/lexkong/log"
 	"net/http"
@@ -29,7 +30,7 @@ func main() {
 	}
 	////// init db
 	model.DB.Init()
-	//defer model.DB.Close()
+	defer model.DB.Close()
 	// Set gin mode.
 	gin.SetMode(viper.GetString("runmode"))
 	//for {
@@ -38,15 +39,14 @@ func main() {
 	//}
 	// Create the Gin engine.
 	g := gin.New()
-	middlewares := []gin.HandlerFunc{}
-
 	// Routes.
 	router.Load(
 		// Cores.
 		g,
 
 		// Middlwares.
-		middlewares...,
+		middleware.Logging(),
+		middleware.RequestId(),
 	)
 
 	// Ping the server to make sure the router is working.
