@@ -11,8 +11,8 @@ import (
 )
 
 type Database struct {
-	Self *gorm.DB
-	//Docker *gorm.DB
+	Self   *gorm.DB
+	Docker *gorm.DB
 }
 
 var DB *Database
@@ -73,12 +73,12 @@ func GetDockerDB() *gorm.DB {
 
 func (db *Database) Init() {
 	DB = &Database{
-		Self: GetSelfDB(),
-		//Docker: GetDockerDB(),
+		Self:   GetSelfDB(),
+		Docker: GetDockerDB(),
 	}
 }
 
 func (db *Database) Close() {
 	DB.Self.Close()
-	//DB.Docker.Close()
+	DB.Docker.Close()
 }
